@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commonmark": "^0.29.1"
+    "commonmark": "^0.29.1",
+    "source-map": "^0.7.3"
   }
 }
